@@ -121,7 +121,7 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
 > device.
 
 - **Install these if you are using a laptop, desktop, mobile or tablet**
-  - [ ] [Slack](https://slack.com/downloads/) - for all Emerging Talent
+  - [x] [Slack](https://slack.com/downloads/) - for all Emerging Talent
         communication
   - [ ] [Zoom](https://zoom.us/support/download) - for online class
 - **Install these only if you are using a laptop or desktop**
