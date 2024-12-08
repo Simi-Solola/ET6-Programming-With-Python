@@ -123,13 +123,13 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
 - **Install these if you are using a laptop, desktop, mobile or tablet**
   - [x] [Slack](https://slack.com/downloads/) - for all Emerging Talent
         communication
-  - [ ] [Zoom](https://zoom.us/support/download) - for online class
+  - [x] [Zoom](https://zoom.us/support/download) - for online class
 - **Install these only if you are using a laptop or desktop**
-  - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used
+  - [x] [Visual Studio Code](https://code.visualstudio.com/download) - used
         write and edit your code
-  - [ ] [git](https://git-scm.com/downloads) for Mac and Linux, or
+  - [x] [git](https://git-scm.com/downloads) for Mac and Linux, or
         [git for windows](https://gitforwindows.org/)
-  - [ ] [Python](https://www.python.org/downloads/)
+  - [x] [Python](https://www.python.org/downloads/)
   - [oh my zsh](https://ohmyz.sh/) (optional): this will help you find your way
     around the CLI
   - GitHub Desktop (optional)
@@ -155,27 +155,27 @@ one that looks interesting? give it a try!
 [How to install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 
 - **For Pair Programming**
-  - [ ] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  - [x] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - **For Git & GitHub**
-  - [ ] [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-  - [ ] [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - [ ] [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-  - [ ] [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+  - [x] [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+  - [x] [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - [x] [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+  - [x] [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - **For programming generally**
-  - [ ] [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-  - [ ] [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
-  - [ ] [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-  - [ ] [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-  - [ ] [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
-  - [ ] [IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
-  - [ ] [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-  - [ ] [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-  - [ ] [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-  - [ ] [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+  - [x] [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  - [x] [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
+  - [x] [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+  - [x] [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+  - [x] [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
+  - [x] [IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
+  - [x] [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+  - [x] [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+  - [x] [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+  - [x] [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 - **For writing Markdown**
-  - [ ] [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-  - [ ] [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-  - [ ] [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+  - [x] [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+  - [x] [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  - [x] [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 - **For writing Python**
   - [ ] [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [ ] [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
