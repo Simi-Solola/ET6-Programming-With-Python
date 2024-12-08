@@ -100,7 +100,7 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
 
 ### Create Your GitHub Account
 
-- [ ] Create a GitHub account if you don't have one already (_no matter what
+- [x] Create a GitHub account if you don't have one already (_no matter what
       device you are using_):
   - Choose a professional username
   - Add a short bio
@@ -109,7 +109,7 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
   - Optional links to your social media accounts
   - A link to your personal website if you have one
   - Your contact info, if you're comfortable sharing it publicly
-- [ ] Connect your computer to GitHub with SSH (_This deliverable is only
+- [x] Connect your computer to GitHub with SSH (_This deliverable is only
       required if you are using a laptop/desktop where you have a private
       account._)
   - This can be tricky! we're here to help each other on Slack, and there are
